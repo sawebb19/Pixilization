@@ -1,0 +1,39 @@
+Pixilization
+
+- Stats
+  - Food
+  - Materials
+  - Gems (Money)
+
+- Build (Food/Resources/Gems)
+  - Barracks (0/1/3)
+  - Farm (2/2/1)
+  - Mining Team (2/1/4)
+  - Woodshed (2/2/1)
+  - Roads (3/2/1)
+  - Soldiers (1/0/1, +1/0/1 upkeep)
+  - Workers (0/0/1, +0/0/1 upkeep)
+  - City (5/5/7)
+  - Wonder (10/10/10)
+
+- Income
+  - Base income of 1/1/1 per 3 turns
+  - Farm +1/0/0 per turn
+  - Mining Team +0/0/1 per turn
+  - Woodshed +0/1/0 per turn
+  - Town Center can buy and sell goods
+
+- Buildings
+  - Barracks allows you to build soldiers (maybe upgrade)
+  - Roads give +1 movement
+  - Wonder wins game
+  - City combines functionality of all income-based buildings, consuming them, and allowing you to rebuild them
+
+- Units
+  - Worker gives +1 for the resource they are assigned to
+  - Soldier attacks enemies and conquers enemy towns
+
+- Start
+  - 3/3/3
+  - Two soldiers (no upkeep)
+  - One worker
